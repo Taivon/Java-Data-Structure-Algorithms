@@ -1,1 +1,2 @@
-# Singly linked list
+# Singly linked List
+# Doubly Linked List
